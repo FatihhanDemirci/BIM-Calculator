@@ -29,3 +29,9 @@ input {
   color: rgb(146, 140, 140);
   cursor: pointer;
 }
+.res {
+  border: 1px solid white;
+  padding: 1rem;
+  color: white;
+}
+
